@@ -1,0 +1,32 @@
+{
+  "name": "dddsl",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "npm run test:main",
+    "test:main": "ava"
+  },
+  "ava": {
+    "require": [
+      "esm"
+    ]
+  },
+  "devDependencies": {
+    "antlr4": "^4.7.1",
+    "async": "^2.6.3",
+    "ava": "^3.7.1",
+    "esm": "^3.2.25",
+    "lodash": "4.17.14",
+    "request": "^2.88.0",
+    "uglify-js": "2.7.5",
+    "webpack": "^1.14.0"
+  },
+  "greenkeeper": {
+    "ignore": []
+  }
+}

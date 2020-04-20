@@ -1,2 +1,4 @@
-# dddsl
-DSL for DDD
+# DDDsl
+Parse, validate, and display DDD in JavaScript.
+
+
