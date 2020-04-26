@@ -24,7 +24,7 @@
     "lodash": "4.17.14",
     "request": "^2.88.0",
     "uglify-js": "2.7.5",
-    "webpack": "^1.14.0"
+    "webpack": "^4.43.0"
   },
   "greenkeeper": {
     "ignore": []
